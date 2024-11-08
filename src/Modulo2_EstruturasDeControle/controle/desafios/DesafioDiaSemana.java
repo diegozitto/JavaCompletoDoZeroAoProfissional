@@ -15,7 +15,7 @@ public class DesafioDiaSemana {
         Scanner leitor = new Scanner(System.in);
 
         System.out.println("Digite o dia da semana: ");
-        String diaDaSemana = leitor.nextLine().replace("á","a").replace("ç","c");
+        String diaDaSemana = leitor.nextLine().replace("á","a").replace("c","ç");
 
         if (diaDaSemana.equalsIgnoreCase("Domingo")){
             System.out.println("1");
