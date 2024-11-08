@@ -1,6 +1,7 @@
 package Modulo2_EstruturasDeControle.controle.desafios;
 
 import java.util.Scanner;
+
 public class DesafioWhile {
     public static void main(String[] args) {
         // Quero calcular a médias das notas de uma turma mas não sei quantos alunos tem.
@@ -14,16 +15,13 @@ public class DesafioWhile {
         Double media;
         Integer contador = 0;
 
-        while(true){
+        while (true) {
             System.out.println("\nDigite sua nota: ");
             Double valor = sc.nextDouble(); // notas
 
-            if (valor == -1){
-                break;
-            }
 
 //            --------LÓGICA--------
-            if(valor < 0 || valor > 10){
+            if (valor < 0 || valor > 10) {
                 System.out.println("Nota inválida");
 
             } else {
@@ -31,16 +29,24 @@ public class DesafioWhile {
                 somaNotas = somaNotas + valor;
                 contador++;
                 System.out.printf("Número de notas cadastradas: %d \n" +
-                                  "Soma das notas cadastradas: %.2f", contador,somaNotas);
+                        "Soma das notas cadastradas: %.2f", contador, somaNotas);
             }
 
-            if (contador <= 0){
+            if (contador <= 0) {
                 System.out.println("Nenhuma nota foi registrada");
+            }
+
+            if (valor == -1) {
+                break;
             }
         }
 
-        media = somaNotas/contador;
+        media = somaNotas / contador;
+        if((somaNotas + contador) == 0.0){
+            System.out.println("Até logo, sua média é: 0");
+        } else{
         System.out.println("Até logo, sua média é: " + media);
+        }
         sc.close();
 
     }
