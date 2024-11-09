@@ -1,4 +1,4 @@
-package Modulo2_EstruturasDeControle.controle;
+package Modulo2_EstruturasDeControle.controle.aulas;
 
 public class Aula4_WhileDeterminado {
     public static void main(String[] args) {
