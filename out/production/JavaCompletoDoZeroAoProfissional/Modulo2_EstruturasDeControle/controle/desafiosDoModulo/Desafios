@@ -11,7 +11,7 @@ Estruturas de Controle
 ------------------------------------------------------------------------------------------------------------------------
 4. Criar um programa que receba um número e diga se ele é um número primo.                  [fiz apenas até uma parte X]
 ------------------------------------------------------------------------------------------------------------------------
-5. Refatorar o exercício 04, utilizando a estrutura switch.
+5. Refatorar o exercício 04, utilizando a estrutura switch.                                 [fiz apenas até uma parte X]
 ------------------------------------------------------------------------------------------------------------------------
 6. Jogo da adivinhação: Tentar adivinhar um número entre 0 - 100. Armazene um numero
     aleatório em uma variável. O Jogador tem 10 tentativas para adivinhar o número gerado.
