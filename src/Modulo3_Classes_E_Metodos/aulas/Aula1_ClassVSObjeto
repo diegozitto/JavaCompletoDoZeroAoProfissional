@@ -1,0 +1,33 @@
+ANATOMIA DA CLASSE:
+
+<modificadores> class Nome ... {
+  // corpo
+  }
+
+  'Nome' - por convenção usamos a primeira letra (caso composto) de cada palavra maiúscula
+  <modificadores> -Antes da palavra 'class' é possível existir alguns modificadores
+  ... - variações
+
+   // corpo - podem existir [membros] -> atributos (dados -> int, boolean, Date, String, etc)
+              e comportamentos (métodos)
+
+------------------------------------------------------------------------------------------------------------------------
+
+ Classe define um tipo (estrutura de dados)
+ |
+ |-> A partir dela é possível organizar dados (OBJETOS)
+ |-> Objeto == instância (instanciar == criar)
+
+ Classe representa uma abstração (simplificação)
+
+ Ex:
+  Crio uma classe chamada Produto com 3 tipos: nome[String], preço[double] e desconto[double]
+  Construtor (responsável por criar objetos).
+
+  ------------------------------------------------------------------------------------------------------------------------
+
+  MEMBROS DE UMA CLASSE
+  * variáveis/constantes
+  * construtor
+  * métodos
+  * classes

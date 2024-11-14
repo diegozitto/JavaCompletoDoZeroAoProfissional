@@ -1,0 +1,62 @@
+                                MÉTODOS
+Algoritmo é uma sequência de passos, eventualmente esse algoritmo
+vai receber alguns parâmetros de entrada, gerando uma saída.
+
+Ex: soma de dois números
+entrada -> num1 e num2
+saída   -> soma (num1 + num2)
+
+nomeMetodo() [esse caso não recebe parâmetro mas dentro do () é
+onde se passa todos os parâmetros do método]
+
+caso eu queira que o retorno de um método seja do tipo 'int', então
+devo definí-lo como tal:
+                          int nomeMetodo(){
+                          -----------------;
+                          -----------------;
+                          }
+caso eu queira que o retorno de um método seja do tipo 'String', então
+devo definí-lo como tal:
+                          String nomeMetodo(){
+                          -----------------;
+                          -----------------;
+                          }
+caso eu queira que o retorno de um método seja 'vazio', então devo
+definí-lo como tal:
+                          void nomeMetodo(){
+                          -----------------;
+                          -----------------;
+                          }
+Ex: método de somar
+
+                         int somar(int a, int b){
+                          return a + b;
+                         }
+
+                                  OU
+
+                         int somar(int a, int b){
+                          int resultado = a + b;
+                          return resultado;
+                        }
+
+É possível ter mai de um método com a mesma 'identidade'?
+
+identidade -> nomeMetodo( tipo nome,...)
+
+[identidade também é popularmente conhecido como assinatura do método]
+
+Resposta: Sim, desde que os atributos/parâmetros de cada um sejam diferentes
+
+Ex:
+   class Calculadora {
+
+   int somar (int a, int b){
+    return a + b;
+   }
+
+   int somar (int a, int b, int c){
+     return a + b + c;
+   }
+
+ }

@@ -1,0 +1,50 @@
+Classe Data tem 3 atributos:
+* dia
+* mes
+* ano
+
+Ao criar uma nova instancia da Data, usamos a palavra reservada 'new' junto com o construtor e essa instância
+terá alguns espaços reservados para que sejam armazenados os valores dos atributos.
+
+   CLASE                                       INSTÂNCIA
+
+   Data                                           d1
+ ________                                      ________
+|  dia   |                                    |    3   |
+|  mes   |   -------------new------------->   |   10   |
+|  ano   |                                    |  2020  |
+|________|                                    |________|
+
+O que seria um atributo de classe e qual a diferença para o atributo de instância?
+
+atributo de instância:                    atributo de classe:
+ ________                                   ______________
+|  dia   |                                 | static   dia |
+|  mes   |   -------------------------->   | mes          |
+|  ano   |                                 | ano          |
+|________|                                 |______________|
+
+Usar o static significa dizer que o valor do atributo não pertence mais a instância e sim a classe.
+
+    Data                                                d1
+ _________________                                    ______
+|  static dia = 3  |                                 |      |
+|  mes             |   -------------------------->   | 10   |
+|  ano             |                                 | 2020 |
+|__________________|                                 |______|
+
+Resumindo: sem o static, o que define o valor dos seus atributos são as instâncias e com ele o valor do atibuto
+fica reservado dentro da classe
+
+Ex:
+
+class Math {
+    static double PI = 3.14;
+    int valorA;
+}
+
+Para acessar o valorA é preciso criar uma instância através de um construtor
+ Math math = new Math();
+ math.valorA = 90;
+
+ System.out.println(Math.PI);

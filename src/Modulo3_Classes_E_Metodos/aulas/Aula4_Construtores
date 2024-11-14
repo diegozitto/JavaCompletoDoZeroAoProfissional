@@ -1,0 +1,62 @@
+Método especial, pode ter mais de um.
+Criam novos objetos a partir de uma classe:
+
+Classe Produto e seus métodos --> Construtor da classe Produto (ex: produto)
+
+A partir do construtor da classe Produto é possível acessar e consumir
+ seus métodos em outras classes
+
+ Construtor padrão  (não recebe parâmetro):
+  Produto p1 = new Produto();
+
+ Estrutura:
+  Classe <nomeDoConstrutor> = new Construtor(<parâmetroOpcional>);
+
+* Criando um construtor com parâmetros
+
+        class Produto{
+        // se não escrever nada, o construtor implícito será o padrão
+        // para mudar isso é necessário criar um construtor dentro da classe:
+
+            Produto(int a){
+
+             }
+
+       }
+
+A principal diferença de um construtor para um método é a ausência de retorno, observe
+                                            CONSTRUTOR vs MÉTODO
+
+          Produto (int a) {                            |     int Produto (int a){
+                                                       |        return int;
+          }                                            |      }
+          Construtor novo:                             |
+          Produto produto = new Produto(9);            |
+                                                       |
+                                                       |
+
+A palavra reservada que define o tipo de retorno de um método é o que define essa diferença
+
+Uma classe pode possuir vários construtor desde que suas assinaturas sejam diferentes umas das outras
+Pode ter um construtor vazio, um que receba int, String, fica à sua escolha:
+
+1) Produto(int a){
+
+               }
+
+2)  Produto(String a){
+
+                }
+
+3)  Produto(Boolean a){
+
+                }
+
+4)  Produto(){
+
+                }
+
+Restrições do método especial construtor:
+
+1) Nome da Classe define o nome do construtor (class Produto --> Construtor Produto)
+2) Não tem retorno (se não é método padrão)
