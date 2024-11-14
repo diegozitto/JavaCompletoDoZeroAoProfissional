@@ -4,20 +4,24 @@ public class Aula2_Produto {
 
     String nome;
     Double preco;
-    Double desconto;
+    static Double desconto = 0.25;
 
     // Aula 4.1 Construtores: Criando um novo construtor para a classe Produto
-
-    Aula2_Produto(String nomeInicial,
-                  Double precoInicial,
-                  Double descontoInicial){
+    
+    //-------------------CONSTRUTORES---------------------
+    Aula2_Produto(String nomeInicial, Double precoInicial){
         nome = nomeInicial;
         preco = precoInicial;
-        desconto = descontoInicial;
     }
 
     Aula2_Produto(){
 
+    }
+    //----------------------------------------------------
+    
+    double precoComDesconto(){
+        Double novoPreco = preco - (preco * desconto);
+        return novoPreco;
     }
 
     /**
@@ -29,7 +33,7 @@ public class Aula2_Produto {
      * 50% --> 0.50 |
      * @return double
      */
-    double precoComDesconto(Double preco, Double desconto){
+    double precoComDescontoEspecial(Double preco, Double desconto){
         Double novoPreco = preco - (preco * desconto);
         return novoPreco;
     }

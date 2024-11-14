@@ -1,0 +1,27 @@
+Atribuição por valor vs por referência
+
+Tipos primitivos --> Valor
+Objetos          --> Referência
+
+1) PRIMITIVOS
+
+Atribuição é feita a parti do símbolo '='
+'[]' --> espaço de memória criado para armazenar valores
+
+   Código                        Memória
+int a = 2;                      [a]   [2]
+int b = a;                      [b]   [2]  --> nesse caso é feito uma cópia
+
+a++;                            [a]   [3]
+b--;                            [b]   [1]
+
+
+2) OBJETOS
+
+Data d1 = new Data();          [d1]   [0x123] 
+                                            |___ 
+                                                \
+                                                 -> aponta para uma área na memória que de fato tem os valores de dia, mes e ano
+                                             ___/
+                                            |
+Data d2 = d1;                  [d2]   [0x123]
