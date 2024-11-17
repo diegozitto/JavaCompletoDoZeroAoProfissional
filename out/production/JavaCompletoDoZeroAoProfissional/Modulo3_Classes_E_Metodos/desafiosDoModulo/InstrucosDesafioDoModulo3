@@ -1,0 +1,14 @@
+Criar 3 classes:
+1º - classe Pessoa:
+     * nomeDaPessoa                         [X]
+     * pesoDaPessoa [double]                [X]
+
+     * método Comer [recebe outro objeto como parâmetro, da classe Comida]
+
+2º - classe Comida:
+     * nomeDaComida                         [X]
+     * pesoDaComida [double]                [X]
+
+     * ao passar o objeto comida para o método comer, deve acrescentar o peso da comida para o peso da pessoa
+
+3º - classe Jantar (vai ter o método main e as implementações, classe teste basicamente)
