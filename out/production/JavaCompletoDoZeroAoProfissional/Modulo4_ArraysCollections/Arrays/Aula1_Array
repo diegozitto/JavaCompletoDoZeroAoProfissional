@@ -1,0 +1,33 @@
+                                                      ARRAY
+Possui duas características marcantes:
+1) É uma estrutura estática, com tamanho fixo (definido no momento de sua criação):
+  - Array de 6 posições[_|_|_|_|_|_]
+  - Precisa referenciar uma variável (ex: a)
+  - Dois Arrays, de diferentes tamanhos, podem ter a mesma variável de referência pois apontam para
+    espaços de memória diferentes
+  - Estrutura homogênea, com todos os dados sendo do mesmo tipo (int int int int int int)
+  - Indexada, para acessar cada um dos elementos é a partir de um valor numérico inteiro:
+
+    [ 0 | 1 | 2 | 3 | 4 | 5 ] --> índexe da posição de cada elemento no Array, começa sempre no 0
+    [7.2|6.6|9.8|7.1|5.2|7.0] --> notas de uma turma
+
+  - Array é um Objeto:
+    double[] a = new double[6]; --> array do tipo double, com 6 posições com nome de 'a'.
+
+  - Para adicionar elementos:
+    a[2] = 9.8;
+    a[0] = 9.2;
+
+  - Valor padrão é 0
+
+  - Para mostrar um elemento específico:
+    System.out.println(a[5]);
+     |--> Mostra o 6º e último elemento do array criado
+
+  - É uma estrutura unidimensional
+  - É possível armazenar um array dentro de outro array (Array multidimensional)
+  - [1|2|3]                   [ [1|2|3|] | [4|5|6|] | [7|8|9|] ] --> 1 array que armazena 3 arrays
+    [4|5|6] --> X                                              | --> 1 em cada espaço
+    [7|8|9]
+
+    double [][] --> array multidimensional
