@@ -31,5 +31,6 @@ public class DesafioArray {
         media = soma / i;
 
         System.out.println("Media: " + media);
+        sc.close();
     }
 }
