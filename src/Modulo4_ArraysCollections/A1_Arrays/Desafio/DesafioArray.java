@@ -1,4 +1,4 @@
-package Modulo4_ArraysCollections.Desafio;
+package Modulo4_ArraysCollections.A1_Arrays.Desafio;
 
 import java.util.Scanner;
 

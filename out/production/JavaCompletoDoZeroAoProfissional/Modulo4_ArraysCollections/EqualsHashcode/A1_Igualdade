@@ -1,0 +1,54 @@
+Objeto/variável Produto
+
+Produto p1 = new Produto();
+p1.nome = "Caneta";
+
+Produto p2 = new Produto();
+p2.nome = "Caneta";
+
+2==2 --> true (sentença interpretada como "2 é igual a 2?")
+2=2  --> atribuição de valor
+
+p1 == p2 --> falso pois p1 aponta para um endereço de memória 0x123 enquanto p2 aponta para 0x234.
+
+Seria como compararmos ambos os endereços de memória e notarmos que são diferentes
+
+'==' é uma comparação de endereços de memória
+
+Resumindo: comparação de igualdade com tipos primitivos é diferente de comparação de igualdade com Objetos
+
+Método EQUALS, disponível em todos os objetos em java (seja criado pelo java ou por mim)
+   Muito usado quando queremos comparar parâmetros de objetos
+
+   p1.equals(p2); --> falso mesma coisa que p1 == p2;
+
+                                            ** HASHCODE **
+
+Uma estrutura que representa um conjunto em java que usaremos futuramente: HASHSET
+    |--> como vou conseguir encontrar um elemento dentro de um conjunto de outros elementos?
+    |EX:
+    |    Tenho um conjunto com 10.000 produtos e quero encontrar 1, o conceito de igualdade é importante e o hashset
+    | utiliza o conceito do hashcode que será abordado.
+
+
+EQUALS   --> retorna true/false; (boolean)  LENTO
+HASHCODE --> retorna int;                   RÁPIDO
+
+      EX:
+      Conjunto de Objetos.nome
+      _______________________________
+     | Ana    Bia                    |
+     |       Lia   Cid               |
+     |        Luna  Luca          |
+     |  Kiko   Chaves                |
+      -------------------------------
+
+      Alvo: elemento Kiko
+
+ Equals mais lento que o Hashcode, se houvessem 100.000 usuários haveriam 100.000 chamadas do Equals para achar o 'alvo'
+ o objetivo do hashcode é ser mais rápido e separar os elementos diferentes de forma que deixe para procurar apenas
+ entre aqueles com possibilidades de serem o que você procura
+ Ex:
+    Procurar pela quantidade de letras
+    Kiko --> 4 letras
+    Isso retornaria 3 elementos com o mesmo hashcode e só após isso o Equals seria chamado para fazer a comparação

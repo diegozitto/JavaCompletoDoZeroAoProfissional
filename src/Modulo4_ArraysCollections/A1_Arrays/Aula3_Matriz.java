@@ -1,4 +1,4 @@
-package Modulo4_ArraysCollections.Arrays;
+package Modulo4_ArraysCollections.A1_Arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

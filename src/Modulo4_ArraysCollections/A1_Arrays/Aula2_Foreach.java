@@ -1,4 +1,4 @@
-package Modulo4_ArraysCollections.Arrays;
+package Modulo4_ArraysCollections.A1_Arrays;
 
 public class Aula2_Foreach {
     public static void main(String[] args) {

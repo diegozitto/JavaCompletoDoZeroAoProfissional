@@ -1,0 +1,50 @@
+Diferentemente do Array, a Collection tem tamanho variável (podem crescer com o tempo)
+    Pode ou não determinar seu tamanho logo de início.
+    Pode ter dados misturados: int com double com String com Objeto com boolean
+    * Boa prática extipula Collections de 1 tipo *
+    * Não suporta tipos primitivos *
+
+    As principais Collections:
+
+   1. | Set | --> é um conjunto
+    - (POR PADRÃO) não é ordenado
+    - não indexado (não é possível acessar por índice: notas[3])
+    - não aceita repetição ( não podem existir 2 elementos iguais, ao tentar fazê-lo o Set ignora o comando)
+   EX:
+     ----------------------
+    |•  •  •  •  •  •  •  •|
+    |  •  •  •  •  •  •  • |
+    |•  •  •  •  •  •  •  •|
+    |  •  •  •  •  •  •  • |
+     ----------------------
+
+
+   2. | List | --> um pouco parecido com Array
+    - Indexada
+    - Aceita repetição
+   EX:
+       1•___________
+       2•___________
+       3•___________
+       4•___________
+       5•___________
+
+
+   3. | Map | --> um mix de Set na chave com List no valor
+    - estrutura chave/valor
+    - não aceita repetição na CHAVE
+    - aceita repetição no VALOR
+   EX:
+   __chave__|__valor__
+   _________|_________
+   _________|_________
+   _________|_________
+   _________|_________
+
+   4. | QUEUE / FILA |
+    - implementa uma fila
+    - lógica: first in / first out (fifo)
+
+   5. | STACK/ PILHA |
+    - implmenta uma pilha (stack)
+    - lógica: last in / first out (lifo)
