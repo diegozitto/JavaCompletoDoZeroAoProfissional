@@ -1,0 +1,19 @@
+     ----------------------
+    |•  •  •  •  •  •  •  •|
+    |  •  •  •  •  •  •  • |
+    |•  •  •  •  •  •  •  •|
+    |  •  •  •  •  •  •  • |
+     ----------------------
+Através do conjunto SET é possível fazer operações de conjunto:
+    * união de conjuntos
+    * interseção entre dois conjuntos
+
+Os dados podem ser:
+    * heterogêneos (diferentes)
+    * homogêneos (iguais)
+
+Não aceita OBJETOS duplicados
+Pode ser ordenado
+Não é indexado
+
+Exemplo a ser trabalhado: 'Hashset'
