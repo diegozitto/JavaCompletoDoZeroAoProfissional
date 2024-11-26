@@ -11,15 +11,21 @@ public class Lista {
         UsuarioList u1 = new UsuarioList("Ana");
 
         lista.add(u1);
-        lista.add(new UsuarioList("Carlos"));
+        lista.add(new UsuarioList("Carlos"));  //removido
         lista.add(new UsuarioList("Lia"));
         lista.add(new UsuarioList("Bia"));
-        lista.add(new UsuarioList("Manu"));
+        lista.add(new UsuarioList("Manu"));    //removido
 
-        System.out.println("Índice 3: " + lista.get(3));
+        System.out.println("\n"+lista.get(3)); // acessar pelo índice
+        System.out.println();
+        
+        System.out.println(">>>>>> "+lista.remove(1));
+        System.out.println(lista.remove(new UsuarioList("Manu")));
+        
+        System.out.println("Tem? " + lista.contains(new UsuarioList("Lia")));
 
         for (UsuarioList u : lista) {
-            System.out.println(u.nome);
+            System.out.println(u.toString());
         }
 
     }
