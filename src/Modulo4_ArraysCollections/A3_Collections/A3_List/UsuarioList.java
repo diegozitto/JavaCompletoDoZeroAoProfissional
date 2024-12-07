@@ -6,7 +6,7 @@ public class UsuarioList {
 
     String nome;
 
-    UsuarioList(String nome){
+    public UsuarioList(String nome){
         this.nome = nome;
     }
 
