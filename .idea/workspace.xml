@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb872030-912c-457f-b52a-5c070f13ab60" name="Changes" comment="Fim módulo 4, início módulo 5">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula14_ContinueRotulado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula14_ContinueRotulado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A2_EqualsHashcode/A1_Igualdade" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A2_EqualsHashcode/A1_Igualdade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A3_List/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A3_List/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A4_Queue/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A4_Queue/Fila.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/diegozitto/JavaCompletoDoZeroAoProfissional.git",
+    "accountId": "ccaf5c17-4c79-4001-9052-f5fe99570f0e"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oRvgTENGomWyANdmKtGfq35iES" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.A1_EqualsPratica.executor": "Run",
+    "Application.A1_HashcodeEqualsPratica.executor": "Run",
+    "Application.A2_ConjuntoBaguncado.executor": "Run",
+    "Application.A2_ConjuntoComportado.executor": "Run",
+    "Application.AreaCircunferencia.executor": "Run",
+    "Application.Aula10_SwitchComBreak.executor": "Run",
+    "Application.Aula11_Break.executor": "Debug",
+    "Application.Aula12_Continue.executor": "Debug",
+    "Application.Aula13_BreakRotulado.executor": "Run",
+    "Application.Aula14_ContinueRotulado.executor": "Run",
+    "Application.Aula1_1_1_Teste.executor": "Run",
+    "Application.Aula1_Exercicio.executor": "Run",
+    "Application.Aula1_if.executor": "Run",
+    "Application.Aula2_Foreach.executor": "Run",
+    "Application.Aula2_IfElse.executor": "Run",
+    "Application.Aula2_ProdutoTeste.executor": "Run",
+    "Application.Aula3_IfElseIf.executor": "Run",
+    "Application.Aula3_Matriz.executor": "Debug",
+    "Application.Aula4_WhileDeterminado.executor": "Run",
+    "Application.Aula5_For1.executor": "Run",
+    "Application.Aula6_DoWhille.executor": "Run",
+    "Application.Aula7_For2.executor": "Run",
+    "Application.Aula8_For3.executor": "Run",
+    "Application.Aula8_ValorVsReferencia.executor": "Run",
+    "Application.Aula9_SwitchSemBreak.executor": "Run",
+    "Application.Aula9_ValoresPadroes.executor": "Run",
+    "Application.CompraTeste.executor": "Run",
+    "Application.DataTeste.executor": "Run",
+    "Application.Deafio4.executor": "Run",
+    "Application.Desafio1.executor": "Run",
+    "Application.Desafio2.executor": "Run",
+    "Application.Desafio3.executor": "Run",
+    "Application.Desafio5.executor": "Run",
+    "Application.Desafio6.executor": "Run",
+    "Application.Desafio7.executor": "Run",
+    "Application.Desafio8.executor": "Run",
+    "Application.DesafioArray.executor": "Run",
+    "Application.DesafioDiaSemana.executor": "Run",
+    "Application.DesafioFor.executor": "Run",
+    "Application.DesafioIf.executor": "Run",
+    "Application.DesafioWhile.executor": "Run",
+    "Application.DesafioWhileIndeterminado.executor": "Run",
+    "Application.Fila.executor": "Run",
+    "Application.Hash.executor": "Run",
+    "Application.Jantar.executor": "Run",
+    "Application.Lista.executor": "Run",
+    "Application.Mapa.executor": "Run",
+    "Application.Modulo5_OrientacaoObjeto.MuitosParaMuitos.Teste.executor": "Run",
+    "Application.Pilha.executor": "Run",
+    "Application.PrimeiroTrauma.executor": "Run",
+    "Application.aula10_Null.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.splitter.proportion": "0.24390244"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\out\production\JavaCompletoDoZeroAoProfisional" />
+      <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\src\Modulo4_ArraysCollections\A3_Collections\List" />
+      <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\src\Modulo4_ArraysCollections\A3_Collections\Set" />
+      <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\src\Modulo4_ArraysCollections\Arrays" />
+      <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\src\Modulo3_Classes_E_Metodos\aulas" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Modulo3_Classes_E_Metodos.aulas" />
+      <recent name="Modulo2_EstruturasDeControle.controle.desafiosDoModulo" />
+      <recent name="Modulo2_EstruturasDeControle.controle" />
+      <recent name="Modulo2_EstruturasDeControle.controle.desafios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DesafioWhile">
+    <configuration name="DesafioDiaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioDiaSemana" />
+      <module name="JavaCompletoDoZeroAoProfissional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioFor" />
+      <module name="JavaCompletoDoZeroAoProfissional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioIf" />
+      <module name="JavaCompletoDoZeroAoProfissional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioWhile" />
+      <module name="JavaCompletoDoZeroAoProfissional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo4_ArraysCollections.A3_Collections.A7_Hash.Hash" />
+      <module name="JavaCompletoDoZeroAoProfissional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modulo4_ArraysCollections.A3_Collections.A7_Hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesafioWhile" />
+        <item itemvalue="Application.DesafioIf" />
+        <item itemvalue="Application.DesafioFor" />
+        <item itemvalue="Application.DesafioDiaSemana" />
+        <item itemvalue="Application.Hash" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\diego_fv8ln8l\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb872030-912c-457f-b52a-5c070f13ab60" name="Changes" comment="" />
+      <created>1730845316342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730845316342</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Aulas IF (.java e .class) + Desafios do módulos">
+      <option name="closed" value="true" />
+      <created>1730861458814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730861458814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aulas módulo 3 Classes e Métodos - pt 1">
+      <option name="closed" value="true" />
+      <created>1731549443764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731549443764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1731898443672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731898443672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Desafio Array (For e For Each) e aulas">
+      <option name="closed" value="true" />
+      <created>1732237268762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732237268762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fim módulo 4, início módulo 5">
+      <option name="closed" value="true" />
+      <created>1733538172027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733538172027</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dev" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="Aulas IF (.java e .class) + Desafios do módulos" />
+    <MESSAGE value="Aulas módulo 3 Classes e Métodos - pt 1" />
+    <MESSAGE value="Atualizações" />
+    <MESSAGE value="Desafio Array (For e For Each) e aulas" />
+    <MESSAGE value="Fim módulo 4, início módulo 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fim módulo 4, início módulo 5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

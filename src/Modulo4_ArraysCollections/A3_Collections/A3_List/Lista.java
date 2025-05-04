@@ -16,7 +16,8 @@ public class Lista {
         lista.add(new UsuarioList("Bia"));
         lista.add(new UsuarioList("Manu"));    //removido
 
-        System.out.println("\n"+lista.get(3)); // acessar pelo índice
+        System.out.println("\n"+lista.get(3)); // acessar pelo índice, se o ToString não for implementado, irá retornar
+                                               // a localização na memória
         System.out.println();
         
         System.out.println(">>>>>> "+lista.remove(1));

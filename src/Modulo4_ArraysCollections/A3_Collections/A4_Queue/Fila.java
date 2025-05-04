@@ -8,7 +8,7 @@ public class Fila {
 
         Queue<String> fila = new LinkedList<>();
 
-            // ambos adicinonam elementos na fila, a diferença é o comportamento quando a fila está cheia
+            // add e offer  adicinonam elementos na fila, a diferença é o comportamento quando a fila está cheia
         
             fila.add("Anna"); // caso a fila tenha um tamanho pré-definido, gera um erro por não conseguir adicionar
             
