@@ -34,7 +34,8 @@ Usar o static significa dizer que o valor do atributo n찾o pertence mais a inst�
 |__________________|                                 |______|
 
 Resumindo: sem o static, o que define o valor dos seus atributos s찾o as inst창ncias e com ele o valor do atibuto
-fica reservado dentro da classe
+fica reservado dentro da classe. Sem o static a gente s처 muda o valor dos atributos direto na classe de origem e
+n찾o na classe de teste.
 
 Ex:
 

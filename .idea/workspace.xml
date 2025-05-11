@@ -5,11 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb872030-912c-457f-b52a-5c070f13ab60" name="Changes" comment="Fim módulo 4, início módulo 5">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula14_ContinueRotulado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula14_ContinueRotulado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A2_EqualsHashcode/A1_Igualdade" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A2_EqualsHashcode/A1_Igualdade" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A3_List/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A3_List/Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A4_Queue/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A4_Queue/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Instrucoes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCompletoDoZeroAoProfissional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCompletoDoZeroAoProfissional.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Notas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaMuitos/Compra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaMuitos/CompraTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaMuitos/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaUm/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaUm/Motor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaUm/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Teste_A4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Notas" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A1_Notas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaMuitos/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Compra_A3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaMuitos/CompraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/CompraTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaMuitos/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaUm/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A2_UmParaUm/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaUm/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A2_UmParaUm/Motor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaUm/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A2_UmParaUm/Teste_A2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +61,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/diegozitto/JavaCompletoDoZeroAoProfissional.git",
-    "accountId": "ccaf5c17-4c79-4001-9052-f5fe99570f0e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/diegozitto/JavaCompletoDoZeroAoProfissional.git&quot;,
+    &quot;accountId&quot;: &quot;ccaf5c17-4c79-4001-9052-f5fe99570f0e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -83,6 +110,7 @@
     "Application.Aula8_ValorVsReferencia.executor": "Run",
     "Application.Aula9_SwitchSemBreak.executor": "Run",
     "Application.Aula9_ValoresPadroes.executor": "Run",
+    "Application.ClienteTeste.executor": "Run",
     "Application.CompraTeste.executor": "Run",
     "Application.DataTeste.executor": "Run",
     "Application.Deafio4.executor": "Run",
@@ -104,15 +132,22 @@
     "Application.Jantar.executor": "Run",
     "Application.Lista.executor": "Run",
     "Application.Mapa.executor": "Run",
+    "Application.Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.Teste.executor": "Run",
     "Application.Modulo5_OrientacaoObjeto.MuitosParaMuitos.Teste.executor": "Run",
     "Application.Pilha.executor": "Run",
     "Application.PrimeiroTrauma.executor": "Run",
+    "Application.Teste.executor": "Debug",
     "Application.aula10_Null.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "last_opened_file_path": "C:/Users/Diego/Documents/Projetos/intellij/JavaCompletoDoZeroAoProfissional",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "settings.editor.splitter.proportion": "0.24390244"
   }
 }]]></component>
@@ -131,13 +166,13 @@
       <recent name="Modulo2_EstruturasDeControle.controle.desafios" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioWhile">
-    <configuration name="DesafioDiaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioDiaSemana" />
+  <component name="RunManager" selected="Application.ClienteTeste">
+    <configuration name="ClienteTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo5_OrientacaoObjeto.Desafio1_Composicao.ClienteTeste" />
       <module name="JavaCompletoDoZeroAoProfissional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="PATTERN" value="Modulo5_OrientacaoObjeto.Desafio1_Composicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioFor" />
+    <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo5_OrientacaoObjeto.A3_UmParaMuitos.CompraTeste" />
       <module name="JavaCompletoDoZeroAoProfissional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="PATTERN" value="Modulo5_OrientacaoObjeto.A3_UmParaMuitos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioIf" />
+    <configuration name="Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo4_ArraysCollections.A3_Collections.A3_List.Lista" />
       <module name="JavaCompletoDoZeroAoProfissional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="PATTERN" value="Modulo4_ArraysCollections.A3_Collections.A3_List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modulo2_EstruturasDeControle.controle.desafios.DesafioWhile" />
+    <configuration name="Teste_A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo5_OrientacaoObjeto.A2_UmParaUm.Teste_A2" />
       <module name="JavaCompletoDoZeroAoProfissional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modulo2_EstruturasDeControle.controle.desafios.*" />
+          <option name="PATTERN" value="Modulo5_OrientacaoObjeto.A2_UmParaUm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modulo4_ArraysCollections.A3_Collections.A7_Hash.Hash" />
+    <configuration name="Teste_A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.Teste_A4" />
       <module name="JavaCompletoDoZeroAoProfissional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modulo4_ArraysCollections.A3_Collections.A7_Hash.*" />
+          <option name="PATTERN" value="Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioWhile" />
-        <item itemvalue="Application.DesafioIf" />
-        <item itemvalue="Application.DesafioFor" />
-        <item itemvalue="Application.DesafioDiaSemana" />
-        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.ClienteTeste" />
+        <item itemvalue="Application.Teste_A4" />
+        <item itemvalue="Application.CompraTeste" />
+        <item itemvalue="Application.Lista" />
+        <item itemvalue="Application.Teste_A2" />
       </list>
     </recent_temporary>
   </component>

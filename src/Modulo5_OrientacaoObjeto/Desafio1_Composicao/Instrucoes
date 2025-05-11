@@ -1,0 +1,20 @@
+To do:
+[] Criar classe Cliente (nome, Lista de Compras, obterValorTotal)
+[X] Criar classe Compra (Lista de itens, obterValorTotal)
+[X] Criar classe Item (quantidade, Produto)
+[X] Criar classe Produto (preço, nome)
+[X] Criar classe ClienteTeste
+
+Regras:
+
+1 Cliente --> N Compra
+1 Compra  --> N Item
+N Item    --> 1 Produto
+
+1 cliente pode ter 1 lista de compras,
+ em 1 lista pode ter 1 lista de itens
+  e cada item é 1 produto
+
+
+ Criar método dentro de Cliente que retorne quanto de dinheiro o cliente gastou na loja
+ - Pegar todas as compras que ele fez, percorrer todos os itens (qtd) e somar o preço dentro de produtos

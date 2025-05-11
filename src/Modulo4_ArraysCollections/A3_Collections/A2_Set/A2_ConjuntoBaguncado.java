@@ -12,17 +12,17 @@ public class A2_ConjuntoBaguncado {
                                // por não suportar tipos primitivos ele faz a conversão:
         conjunto.add(1.2);     // double -> Double
         conjunto.add(true);    // boolean -> Boolean
-        conjunto.add("Teste"); // String não é primitivo
+        conjunto.add("Teste_A2"); // String não é primitivo
         conjunto.add(1);       // int -> Integer
         conjunto.add('x');     // char -> Character
 
         System.out.println("Tamanho é: " + conjunto.size());
 
-        conjunto.add("Teste"); // não aceita valor repetido
+        conjunto.add("Teste_A2"); // não aceita valor repetido
         System.out.println("Tamanho é: " + conjunto.size());
 
         System.out.println(conjunto.remove("teste")); // não existe
-        System.out.println(conjunto.remove("Teste"));
+        System.out.println(conjunto.remove("Teste_A2"));
         System.out.println(conjunto.remove('x'));
 
         System.out.println("Tamanho é: " + conjunto.size());
