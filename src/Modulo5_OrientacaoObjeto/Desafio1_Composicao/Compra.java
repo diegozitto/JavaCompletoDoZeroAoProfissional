@@ -11,4 +11,11 @@ public class Compra {
         this.itens.add(itens);
     }
 
+    double obterValorTotalDaCompra(Item i){
+        for (Item it : itens){
+            it.produto
+        }
+    }
+
+
 }

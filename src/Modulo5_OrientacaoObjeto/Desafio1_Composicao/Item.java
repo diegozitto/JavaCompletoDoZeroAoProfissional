@@ -12,22 +12,26 @@ public class Item {
         this.produtos.add(product);
     }
 
-    double obterQuantidadeDeProdutos(Produto nome){
+    double obterQuantidadeDeProdutos(Produto product){
         double contador = 0;
-            for ( Produto product : produtos){
-                if (product.nome.equals(nome.nome)){
+            for ( Produto products : produtos){
+                if (product.nome.equals(products.nome)){
                     contador ++;
                 }
             }
-        System.out.printf("Nosso estoque de " + nome.nome + " é :");
-            return contador;
+            return Math.round(contador);
     }
 
     double obterValorDeProdutos(Produto product){
         double preco = product.preco;
-        System.out.printf("Cada " + product.nome + " está por R$ ");
-        return preco;
+        return Math.round(preco);
     }
+
+    double obterValorTotal (Produto product){
+        System.out.print("O valor total do produto " + product.nome + " por quantidade é: ");
+         return obterValorDeProdutos(product) * obterQuantidadeDeProdutos(product);
+    }
+
 
 }
 

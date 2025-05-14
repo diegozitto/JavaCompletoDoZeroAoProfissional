@@ -11,24 +11,13 @@ public class ClienteTeste {
     Item bijuterias = new Item();
         bijuterias.adicionarProduto(pulseira);
         bijuterias.adicionarProduto(pulseira);
+        bijuterias.adicionarProduto(pulseira);
         bijuterias.adicionarProduto(brinco);
-        bijuterias.adicionarProduto(brinco);
 
-            System.out.println(bijuterias.obterQuantidadeDeProdutos(pulseira));
-            System.out.println(bijuterias.obterValorDeProdutos(pulseira)+"\n");
+        System.out.println(bijuterias.obterQuantidadeDeProdutos(pulseira));
+        System.out.println(bijuterias.obterValorDeProdutos(pulseira));
+        System.out.println(bijuterias.obterValorTotal(pulseira));
 
-            System.out.println(bijuterias.obterQuantidadeDeProdutos(brinco));
-            System.out.println(bijuterias.obterValorDeProdutos(brinco)+"\n");
-
-    Item automotivos = new Item();
-        automotivos.adicionarProduto(carro);
-        automotivos.adicionarProduto(moto);
-
-            System.out.println(automotivos.obterQuantidadeDeProdutos(carro));
-            System.out.println(automotivos.obterValorDeProdutos(carro)+"\n");
-
-            System.out.println(automotivos.obterQuantidadeDeProdutos(moto));
-            System.out.println(automotivos.obterValorDeProdutos(moto));
 
     }
 }

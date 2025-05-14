@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb872030-912c-457f-b52a-5c070f13ab60" name="Changes" comment="Fim módulo 4, início módulo 5">
-      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Instrucoes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCompletoDoZeroAoProfissional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCompletoDoZeroAoProfissional.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Curso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Notas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaMuitos/Compra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaMuitos/CompraTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaMuitos/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaUm/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaUm/Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/UmParaUm/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo3_Classes_E_Metodos/aulas/Aula5_MembrosDeClasse_Vs_Instancia" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/MuitosParaMuitos/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Teste_A4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Notas" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A1_Notas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaMuitos/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Compra_A3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaMuitos/CompraTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/CompraTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaMuitos/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaUm/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A2_UmParaUm/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaUm/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A2_UmParaUm/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/UmParaUm/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/A2_UmParaUm/Teste_A2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,76 +53,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Application.A1_EqualsPratica.executor": "Run",
-    "Application.A1_HashcodeEqualsPratica.executor": "Run",
-    "Application.A2_ConjuntoBaguncado.executor": "Run",
-    "Application.A2_ConjuntoComportado.executor": "Run",
-    "Application.AreaCircunferencia.executor": "Run",
-    "Application.Aula10_SwitchComBreak.executor": "Run",
-    "Application.Aula11_Break.executor": "Debug",
-    "Application.Aula12_Continue.executor": "Debug",
-    "Application.Aula13_BreakRotulado.executor": "Run",
-    "Application.Aula14_ContinueRotulado.executor": "Run",
-    "Application.Aula1_1_1_Teste.executor": "Run",
-    "Application.Aula1_Exercicio.executor": "Run",
-    "Application.Aula1_if.executor": "Run",
-    "Application.Aula2_Foreach.executor": "Run",
-    "Application.Aula2_IfElse.executor": "Run",
-    "Application.Aula2_ProdutoTeste.executor": "Run",
-    "Application.Aula3_IfElseIf.executor": "Run",
-    "Application.Aula3_Matriz.executor": "Debug",
-    "Application.Aula4_WhileDeterminado.executor": "Run",
-    "Application.Aula5_For1.executor": "Run",
-    "Application.Aula6_DoWhille.executor": "Run",
-    "Application.Aula7_For2.executor": "Run",
-    "Application.Aula8_For3.executor": "Run",
-    "Application.Aula8_ValorVsReferencia.executor": "Run",
-    "Application.Aula9_SwitchSemBreak.executor": "Run",
-    "Application.Aula9_ValoresPadroes.executor": "Run",
-    "Application.ClienteTeste.executor": "Run",
-    "Application.CompraTeste.executor": "Run",
-    "Application.DataTeste.executor": "Run",
-    "Application.Deafio4.executor": "Run",
-    "Application.Desafio1.executor": "Run",
-    "Application.Desafio2.executor": "Run",
-    "Application.Desafio3.executor": "Run",
-    "Application.Desafio5.executor": "Run",
-    "Application.Desafio6.executor": "Run",
-    "Application.Desafio7.executor": "Run",
-    "Application.Desafio8.executor": "Run",
-    "Application.DesafioArray.executor": "Run",
-    "Application.DesafioDiaSemana.executor": "Run",
-    "Application.DesafioFor.executor": "Run",
-    "Application.DesafioIf.executor": "Run",
-    "Application.DesafioWhile.executor": "Run",
-    "Application.DesafioWhileIndeterminado.executor": "Run",
-    "Application.Fila.executor": "Run",
-    "Application.Hash.executor": "Run",
-    "Application.Jantar.executor": "Run",
-    "Application.Lista.executor": "Run",
-    "Application.Mapa.executor": "Run",
-    "Application.Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.Teste.executor": "Run",
-    "Application.Modulo5_OrientacaoObjeto.MuitosParaMuitos.Teste.executor": "Run",
-    "Application.Pilha.executor": "Run",
-    "Application.PrimeiroTrauma.executor": "Run",
-    "Application.Teste.executor": "Debug",
-    "Application.aula10_Null.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Diego/Documents/Projetos/intellij/JavaCompletoDoZeroAoProfissional",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "settings.editor.splitter.proportion": "0.24390244"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.A1_EqualsPratica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A1_HashcodeEqualsPratica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A2_ConjuntoBaguncado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A2_ConjuntoComportado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaCircunferencia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula10_SwitchComBreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula11_Break.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula12_Continue.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula13_BreakRotulado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula14_ContinueRotulado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula1_1_1_Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula1_Exercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula1_if.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula2_Foreach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula2_IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula2_ProdutoTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula3_IfElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula3_Matriz.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula4_WhileDeterminado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula5_For1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula6_DoWhille.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula7_For2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula8_For3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula8_ValorVsReferencia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula9_SwitchSemBreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula9_ValoresPadroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClienteTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompraTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deafio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioDiaSemana.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioWhileIndeterminado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fila.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jantar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lista.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mapa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modulo5_OrientacaoObjeto.MuitosParaMuitos.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pilha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeiroTrauma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.aula10_Null.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Diego/Documents/Projetos/intellij/JavaCompletoDoZeroAoProfissional&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24390244&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\out\production\JavaCompletoDoZeroAoProfisional" />
