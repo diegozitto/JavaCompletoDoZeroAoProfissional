@@ -4,17 +4,14 @@ import java.util.ArrayList;
 
 public class Compra {
 
-    Item item = new Item();
     ArrayList<Item> itens = new ArrayList<Item>();
 
-    void adicionarItem(Item itens){
-        this.itens.add(itens);
-    }
-
-    double obterValorTotalDaCompra(Item i){
-        for (Item it : itens){
-            it.produto
+    double getValorTotalDaCompra() {
+        double somaItens = 0;
+        for (Item item : itens) {
+            somaItens += item.getValorTotal();
         }
+        return somaItens;
     }
 
 

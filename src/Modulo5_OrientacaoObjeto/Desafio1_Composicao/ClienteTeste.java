@@ -2,22 +2,21 @@ package Modulo5_OrientacaoObjeto.Desafio1_Composicao;
 
 public class ClienteTeste {
     public static void main(String[] args) {
+        Cliente cliente1 = new Cliente("João");
 
-    Produto pulseira = new Produto("Pulseira",1790.85);
-    Produto brinco = new Produto("Brinco",4000.00);
-    Produto carro = new Produto("Carro",250000.00);
-    Produto moto = new Produto("Moto",9000.00);
+        Produto p1 = new Produto(5.50, "Leite");
+        Produto p2 = new Produto(2.50, "Adoçante");
 
-    Item bijuterias = new Item();
-        bijuterias.adicionarProduto(pulseira);
-        bijuterias.adicionarProduto(pulseira);
-        bijuterias.adicionarProduto(pulseira);
-        bijuterias.adicionarProduto(brinco);
+        Item item1 = new Item(5, p1);
+        Item item2 = new Item(5, p2);
 
-        System.out.println(bijuterias.obterQuantidadeDeProdutos(pulseira));
-        System.out.println(bijuterias.obterValorDeProdutos(pulseira));
-        System.out.println(bijuterias.obterValorTotal(pulseira));
+        Compra mercado = new Compra();
+        mercado.itens.add(item1);
+        mercado.itens.add(item2);
 
+        cliente1.adicionarCompra(mercado);
+        System.out.println(mercado.getValorTotalDaCompra());
+        System.out.println(cliente1.getValorTotalCompra());
 
     }
 }

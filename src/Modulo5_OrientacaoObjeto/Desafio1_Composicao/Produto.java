@@ -2,16 +2,12 @@ package Modulo5_OrientacaoObjeto.Desafio1_Composicao;
 
 
 public class Produto {
-    String nome;
-    double preco;
+     double preco;
+     String nome;
 
-    Produto(String nome, double preco){
-        this.nome = nome;
-        this.preco = preco;
-    }
-
-    Produto(){
-
-    }
+     Produto (double preco, String nome){
+         this.preco = preco;
+         this.nome = nome;
+     }
 
 }
