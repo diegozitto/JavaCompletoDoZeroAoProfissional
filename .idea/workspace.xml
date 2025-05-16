@@ -5,112 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb872030-912c-457f-b52a-5c070f13ab60" name="Changes" comment="Fim módulo 4, início módulo 5">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/ConversorDeTemperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/ConversorDeTemperatura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioAritmeticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioCalculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioConversao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioConversao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/DesafioLogicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/desafios/conceitoBasicos/Desafio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/inicio/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/inicio/AreaCircunferencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/inicio/Inferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/inicio/Inferencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/inicio/PrimeiroPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/inicio/PrimeiroPrograma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Aritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Aritmeticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Atribuicao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Atribuicao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Logicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Logicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Operadores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Operadores.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Relacionais.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Relacionais.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Ternarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Ternarios.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Unarios.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/operadores/Unarios.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/ConversaoNumeroString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/ConversaoNumeroString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/ConversaoStringNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/ConversaoStringNumero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/ConversaoTipoPrimitivoNumerico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/ConversaoTipoPrimitivoNumerico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/Import.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/Import.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/NotacaoPonto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/NotacaoPonto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/PrimitivoVsObjeto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/PrimitivoVsObjeto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/TipoString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/TipoStringEquals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/TipoStringEquals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/TiposPrimitivos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/Wrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo1_Fundamentos/fundamentos/primitivos/Wrapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula10_SwitchComBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula10_SwitchComBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula11_Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula11_Break.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula12_Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula12_Continue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula13_BreakRotulado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula13_BreakRotulado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula14_ContinueRotulado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula14_ContinueRotulado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula1_if.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula1_if.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula2_IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula2_IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula3_IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula3_IfElseIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula4_WhileDeterminado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula4_WhileDeterminado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula5_For1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula5_For1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula6_DoWhille.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula6_DoWhille.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula7_For2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula7_For2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula8_For3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula8_For3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula9_SwitchSemBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/aulas/Aula9_SwitchSemBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioDiaSemana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioDiaSemana.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioFor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioWhileIndeterminado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafios/DesafioWhileIndeterminado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo2_EstruturasDeControle/controle/desafiosDoModulo/Desafio8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula2_Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula2_Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula2_ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula2_ProdutoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula6_AreaCirc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula6_AreaCirc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula6_AreaCircTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula6_AreaCircTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula8_ValorVsReferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula8_ValorVsReferencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula9_ValoresPadroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/Aula9_ValoresPadroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/aula10_Null.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/aulas/aula10_Null.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafios/DesafioClasseData/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafios/DesafioClasseData/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafios/DesafioClasseData/DataTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafios/DesafioClasseData/DataTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafios/DesafioClasseData/PrimeiroTrauma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafios/DesafioClasseData/PrimeiroTrauma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafiosDoModulo/Comida.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafiosDoModulo/Comida.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafiosDoModulo/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafiosDoModulo/Jantar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafiosDoModulo/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo3_Classes_E_Metodos/desafiosDoModulo/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Aula1_Exercicio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Aula1_Exercicio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Aula2_Foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Aula2_Foreach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Aula3_Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Aula3_Matriz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Desafio/DesafioArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A1_Arrays/Desafio/DesafioArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A2_EqualsHashcode/A1_EqualsPratica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A2_EqualsHashcode/A1_EqualsPratica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A2_EqualsHashcode/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A2_EqualsHashcode/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoBaguncado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoComportado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A2_Set/A2_ConjuntoComportado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A3_List/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A3_List/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A3_List/UsuarioList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A3_List/UsuarioList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A4_Queue/Fila.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A4_Queue/Fila.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A5_Stack/Pilha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A5_Stack/Pilha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A6_Map/Mapa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A6_Map/Mapa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A7_Hash/Hash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo4_ArraysCollections/A3_Collections/A7_Hash/Hash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A2_UmParaUm/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A2_UmParaUm/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A2_UmParaUm/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A2_UmParaUm/Motor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A2_UmParaUm/Teste_A2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A2_UmParaUm/Teste_A2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/CompraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/CompraTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Compra_A3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Compra_A3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A3_UmParaMuitos/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Curso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Teste_A4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/A4_MuitosParaMuitos/Teste_A4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCompletoDoZeroAoProfissional/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/ClienteTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Compra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modulo5_OrientacaoObjeto/Desafio1_Composicao/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,76 +51,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Application.A1_EqualsPratica.executor": "Run",
-    "Application.A1_HashcodeEqualsPratica.executor": "Run",
-    "Application.A2_ConjuntoBaguncado.executor": "Run",
-    "Application.A2_ConjuntoComportado.executor": "Run",
-    "Application.AreaCircunferencia.executor": "Run",
-    "Application.Aula10_SwitchComBreak.executor": "Run",
-    "Application.Aula11_Break.executor": "Debug",
-    "Application.Aula12_Continue.executor": "Debug",
-    "Application.Aula13_BreakRotulado.executor": "Run",
-    "Application.Aula14_ContinueRotulado.executor": "Run",
-    "Application.Aula1_1_1_Teste.executor": "Run",
-    "Application.Aula1_Exercicio.executor": "Run",
-    "Application.Aula1_if.executor": "Run",
-    "Application.Aula2_Foreach.executor": "Run",
-    "Application.Aula2_IfElse.executor": "Run",
-    "Application.Aula2_ProdutoTeste.executor": "Run",
-    "Application.Aula3_IfElseIf.executor": "Run",
-    "Application.Aula3_Matriz.executor": "Debug",
-    "Application.Aula4_WhileDeterminado.executor": "Run",
-    "Application.Aula5_For1.executor": "Run",
-    "Application.Aula6_DoWhille.executor": "Run",
-    "Application.Aula7_For2.executor": "Run",
-    "Application.Aula8_For3.executor": "Run",
-    "Application.Aula8_ValorVsReferencia.executor": "Run",
-    "Application.Aula9_SwitchSemBreak.executor": "Run",
-    "Application.Aula9_ValoresPadroes.executor": "Run",
-    "Application.ClienteTeste.executor": "Run",
-    "Application.CompraTeste.executor": "Run",
-    "Application.DataTeste.executor": "Run",
-    "Application.Deafio4.executor": "Run",
-    "Application.Desafio1.executor": "Run",
-    "Application.Desafio2.executor": "Run",
-    "Application.Desafio3.executor": "Run",
-    "Application.Desafio5.executor": "Run",
-    "Application.Desafio6.executor": "Run",
-    "Application.Desafio7.executor": "Run",
-    "Application.Desafio8.executor": "Run",
-    "Application.DesafioArray.executor": "Run",
-    "Application.DesafioDiaSemana.executor": "Run",
-    "Application.DesafioFor.executor": "Run",
-    "Application.DesafioIf.executor": "Run",
-    "Application.DesafioWhile.executor": "Run",
-    "Application.DesafioWhileIndeterminado.executor": "Run",
-    "Application.Fila.executor": "Run",
-    "Application.Hash.executor": "Run",
-    "Application.Jantar.executor": "Run",
-    "Application.Lista.executor": "Run",
-    "Application.Mapa.executor": "Run",
-    "Application.Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.Teste.executor": "Run",
-    "Application.Modulo5_OrientacaoObjeto.MuitosParaMuitos.Teste.executor": "Run",
-    "Application.Pilha.executor": "Run",
-    "Application.PrimeiroTrauma.executor": "Run",
-    "Application.Teste.executor": "Debug",
-    "Application.aula10_Null.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Diego/Documents/Projetos/intellij/JavaCompletoDoZeroAoProfissional",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "settings.editor.splitter.proportion": "0.24390244"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.A1_EqualsPratica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A1_HashcodeEqualsPratica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A2_ConjuntoBaguncado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.A2_ConjuntoComportado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaCircunferencia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula10_SwitchComBreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula11_Break.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula12_Continue.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula13_BreakRotulado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula14_ContinueRotulado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula1_1_1_Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula1_Exercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula1_if.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula2_Foreach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula2_IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula2_ProdutoTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula3_IfElseIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula3_Matriz.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Aula4_WhileDeterminado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula5_For1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula6_DoWhille.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula7_For2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula8_For3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula8_ValorVsReferencia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula9_SwitchSemBreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aula9_ValoresPadroes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClienteTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompraTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTeste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deafio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioDiaSemana.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DesafioWhileIndeterminado.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fila.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jantar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lista.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mapa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modulo5_OrientacaoObjeto.A4_MuitosParaMuitos.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modulo5_OrientacaoObjeto.MuitosParaMuitos.Teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pilha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeiroTrauma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Teste.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.aula10_Null.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Diego/Documents/Projetos/intellij/JavaCompletoDoZeroAoProfissional&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.24390244&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projetos\intellij ws\JavaCompletoDoZeroAoProfissional\out\production\JavaCompletoDoZeroAoProfisional" />
@@ -414,6 +310,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
