@@ -17,12 +17,23 @@ public class Cliente {
 
     double getValorTotalCompra() {
         double valorTotal = 0;
+
         for (Compra compra : compras) {
-            valorTotal += compra.getValorTotalDaCompra();
+            valorTotal += compra.getValorTotalDeItem();
         }
         return valorTotal;
+    }
+    double getTotal(Item item1, Item item2){
+        double somaItens = 0;
 
+        for (Compra compra : compras) {
+            somaItens += ((item1.quantidade * item1.produto.preco)
+                    + (item2.quantidade * item2.produto.preco));
+        }
+        return somaItens;
     }
 
 
 }
+//Todo:
+//    -Finalizar a junção dos métodos para gerar o obterValorTotal na classe Cliente

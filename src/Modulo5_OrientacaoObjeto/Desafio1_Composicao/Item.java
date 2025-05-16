@@ -10,9 +10,4 @@ public class Item {
         this.produto = produto;
     }
 
-    double getValorTotal() {
-        return this.produto.preco * this.quantidade;
-    }
-
-
 }
